@@ -121,7 +121,7 @@ public class Fp03 {
         return list.stream().allMatch(t -> t.length() < 12);
 
         //10) hiçbir elemanın X ile baslamadigini kontrol eden bir method olusturun
-
+//--
 
         }
 
