@@ -6,6 +6,7 @@ public class C01_HelloWorld {
 
         System.out.println("Hello Java, Hello World");
         System.out.println("hello world");
+        System.out.println("Hello World, Hello World");
     }
 
 }
