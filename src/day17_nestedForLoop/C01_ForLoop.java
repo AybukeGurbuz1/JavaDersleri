@@ -1,7 +1,5 @@
 package day17_nestedForLoop;
 
-import org.jetbrains.annotations.NotNull;
-
 public class C01_ForLoop {
     public static void main(String[] args) {
         // verilen string deki kullanilan harflri

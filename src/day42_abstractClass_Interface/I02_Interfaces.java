@@ -1,12 +1,5 @@
 package day42_abstractClass_Interface;
 
-import org.jetbrains.annotations.NotNull;
-
-import java.util.Collection;
-import java.util.Iterator;
-import java.util.List;
-import java.util.ListIterator;
-
 public interface I02_Interfaces {
     /*
     Interface bir class değildir
